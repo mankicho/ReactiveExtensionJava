@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d60b3316-5b2e-479d-8183-a416ce267ed6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap03/MainThreadSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap03/MissingBackPressureFlowAbleSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap03/SubsribeOnSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/DebugSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/create/FromArraySample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/create/FromCallableSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/create/IntervalSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/create/RangeSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/create/TimerSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/map/FlatMapSample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/map/FlatMapSample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/map/FlatMapSample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/map/MapSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/src/main/java/chap02/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/rx/src/main/java/chap02/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/src/main/java/chap02/atomic/SynchronizedPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/rx/src/main/java/chap02/atomic/SynchronizedPoint.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
