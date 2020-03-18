@@ -1,14 +1,18 @@
 package chap02;
 
- // 필드값으로 count 를 가진 Counter 객체
+// 필드값으로 count 를 가진 Counter 객체
 public class Counter {
     private volatile int count;
 
-    void increment() {
+    public void increment() {
         count++;
     }
 
-    int get() {
+    public int get() {
         return count;
+    }
+
+    public void setCount(int count) {
+        this.count = count;
     }
 }

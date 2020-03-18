@@ -1,5 +1,7 @@
 package chap02.atomic;
 
+import java.util.ArrayList;
+
 public class SynchronizedPoint {
     private final Object lock = new Object();
 
