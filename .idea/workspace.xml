@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d60b3316-5b2e-479d-8183-a416ce267ed6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/DebugSubscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/create/FromArraySample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/create/FromCallableSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/create/IntervalSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/create/RangeSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/create/TimerSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/map/FlatMapSample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/map/FlatMapSample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/map/FlatMapSample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rx/src/main/java/chap04/map/MapSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d60b3316-5b2e-479d-8183-a416ce267ed6" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +104,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
